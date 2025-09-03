@@ -2,6 +2,8 @@
 
 A stealth-based gameplay project built in **Unreal Engine 5**, featuring dynamic AI guards, surveillance cameras, noise distraction mechanics, and key collection for progression.  
 
+![Gameplay GIF](https://github.com/philnguy/PhantomProtocol/blob/main/Screenshot%202025-09-02%20190739.png)
+
 ## 🎮 Features  
 - **AI Guards**: Patrol predefined routes and actively track the player once spotted.  
 - **Security Cameras**: Rotate and detect players entering their cone of vision.  
@@ -21,6 +23,8 @@ This project was created to explore:
 - More complex noise types (timed distraction, thrown gadgets)
 - Save/load system with checkpoints
 - UI elements for detection meters and objective tracking
+
+
 
 
 
